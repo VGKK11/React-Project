@@ -1,0 +1,45 @@
+.contact{
+    background: url("..//..//assets/back9.jpg");
+    display:flex;
+    flex-direction: column;
+    color: rgb(24, 4, 4);
+    justify-content: center;
+    margin: 200px 0 100px;
+    align-items: center;
+    padding-top: 10px;
+}
+
+
+.contact_container{
+    
+    width: 600px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.contact_container > p {
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.contact_container > p > span {
+    color: rgb(93, 0, 255);
+    
+}
+#I1{
+ height: 32px;
+}
+#I2{
+    height: 28px;
+}
+#I3{
+    height: 30px;
+}
+#I4{
+    height: 25px;
+}

@@ -1,0 +1,8 @@
+.s{
+    text-align: center;
+    color: rgb(249, 238, 238);
+    bottom: 0;
+    position: sticky;
+    z-index: 2000;
+    background-color: rgb(21, 5, 5);
+}
